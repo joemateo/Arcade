@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+Day in the Life of Joe
+Joseph Mateo
 
 
-if (change this line) {
-    move the paddle down
+if (Joe hits the apple tree) {
+    make all the apples fall
 } else {
-    move paddle up
+    keep the apples on the tree
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Joe hits the pillar with his face) {
+    make Joe fall
 } else {
-    //Add event below
+    Make Joe stand up
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Joe presses the gas pedal) {
+    make the car accelerate
 } else {
-    //Add event below
+    make the car decelrate until acceleration is zero
 }
 
 
