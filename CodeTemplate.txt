@@ -2,8 +2,13 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
+<<<<<<< HEAD
 Day in the Life of Joe
 Joseph Mateo
+=======
+//CHANGE ME: Add the title of your game
+//CHANGE ME: Add your name
+>>>>>>> c132844e31587ef46d6a2bc3fad7afed6ade4f2b
 
 
 if (Joe hits the apple tree) {
